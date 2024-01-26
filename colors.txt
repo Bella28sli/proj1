@@ -1,0 +1,3 @@
+    <body bgcolor="#FFDCC0" link="#A15C28" vlink="#542D10" alink="#E28640" text="#281507" style="  background: url('video.png');
+    background-size: cover;">
+            <p align="center"><em><font size="6" color="#FF1493"><br>Спасибо за внимание!</font></em></p>
